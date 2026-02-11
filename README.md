@@ -1,9 +1,7 @@
 # Hi there 👋, I'm Darshan Pakhale  
 
 🚀 **Aspiring Software Developer | Java & C++ Enthusiast**  
-🎓 BE (E&TC) | 2024 Graduate  
-📍 India | Ready to Relocate  
-
+ 
 ---
 
 ## 👨‍💻 About Me  
@@ -31,18 +29,17 @@ I enjoy learning new technologies, building logical solutions, and understanding
 
 ## 📊 GitHub Stats  
 
-![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshanpakhale26&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshanpakhale26&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect With Me  
 
 - 💼 LinkedIn: **(Add your LinkedIn URL)**  
-- 📧 Email: **(Add your email)**  
-- 💻 GitHub: https://github.com/YOUR_USERNAME  
-
+- 📧 Email: **darshanvp2610@gmail.com**  
+  
 ---
 
 ⭐ **Thanks for visiting my profile!**  
