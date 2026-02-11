@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Darshan Pakhale  
 
-🚀 **Java | C++ | Cloud | Full-Stack Developer**  
+🚀 **Aspiring Software Developer | Java & C++ Enthusiast**  
 🎓 BE (E&TC) | 2024 Graduate  
 📍 India | Ready to Relocate  
 
@@ -8,71 +8,24 @@
 
 ## 👨‍💻 About Me  
 
-I’m a passionate **software developer** with strong fundamentals in **C++, Java, SQL, and Web Technologies**.  
-I enjoy building **real-world projects**, learning **backend systems**, and exploring **cloud platforms** like AWS.
+I’m a motivated **software developer** with strong fundamentals in **programming, problem-solving, and backend development**.  
+I enjoy learning new technologies, building logical solutions, and understanding how real-world systems work.
 
-- 🔭 Currently working on **Spring Boot & Full-Stack Projects**
-- 🌱 Learning **Microservices, REST APIs & Cloud Deployment**
-- 💡 Strong interest in **Problem Solving & System Design**
-- 🎯 Career Goal: **Backend / Java Developer**
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Programming Languages  
-- C++  
-- Java  
-- Python  
-
-### 🌐 Web Technologies  
-- HTML  
-- CSS / Tailwind CSS  
-- JavaScript  
-- React.js  
-
-### ⚙️ Backend & Frameworks  
-- Spring Boot  
-- Spring MVC  
-- Spring Data JPA  
-- REST APIs  
-
-### 🗄️ Databases  
-- MySQL  
-- SQL  
-
-### ☁️ Cloud & Tools  
-- AWS (EC2, S3, IAM – Basics)  
-- Git & GitHub  
-- Maven  
-- VS Code  
+- 🔭 Currently focused on **Java, C++, SQL & Backend Development**
+- 🌱 Learning **Spring Boot, REST APIs & Software Architecture**
+- 💡 Strong interest in **Data Structures, OOP & System Design**
+- 🎯 Career Goal: **Java / Backend Developer**
 
 ---
 
-## 📌 Featured Projects  
+## 🎓 Education  
 
-### 🛒 Product Catalog Web App  
-- React + Tailwind CSS  
-- Search, Filter, Sort, Cart  
-- API Integration  
-- Context API for State Management  
+- **CDAC – Diploma in Advanced Computing (DAC)**  
+  📍 Pune  
 
-### 🧳 Tours & Travels Management System  
-- React + Tailwind CSS (Frontend)  
-- Node.js + MySQL (Backend)  
-- JWT Authentication  
-- Admin & User Modules  
-
-### 🎓 Student ERP Management System  
-- React + Tailwind CSS  
-- Node.js + MySQL  
-- Student Login, Dashboard & Management  
-
-### 🌱 Spring Boot CRUD Application  
-- Spring Boot + Thymeleaf  
-- Spring Data JPA & Hibernate  
-- MVC Architecture  
-- MySQL / H2 Database  
+- **Bachelor of Engineering (E&TC)**  
+  Pune Vidyarthi Griha’s College of Engineering & Technology  
+  🎓 CGPA: **8.42** | Year: **2024**
 
 ---
 
@@ -84,14 +37,6 @@ I enjoy building **real-world projects**, learning **backend systems**, and expl
 
 ---
 
-## 🏆 Achievements & Certifications  
-
-- ✅ AWS Course – Udemy  
-- ✅ Strong DSA & OOP Fundamentals  
-- ✅ Hands-on Full-Stack Project Experience  
-
----
-
 ## 🤝 Connect With Me  
 
 - 💼 LinkedIn: **(Add your LinkedIn URL)**  
@@ -100,6 +45,5 @@ I enjoy building **real-world projects**, learning **backend systems**, and expl
 
 ---
 
-⭐ **If you like my projects, don’t forget to star them!**  
-✨ Let’s build something amazing together.
-
+⭐ **Thanks for visiting my profile!**  
+✨ Always open to learning, collaboration, and new opportunities.
