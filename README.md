@@ -27,17 +27,9 @@ I enjoy learning new technologies, building logical solutions, and understanding
 
 ---
 
-## 📊 GitHub Stats  
-
-![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshanpakhale26&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshanpakhale26&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me  
 
-- 💼 LinkedIn: **(Add your LinkedIn URL)**  
+- 💼 LinkedIn: **https://www.linkedin.com/in/darshan261002/**  
 - 📧 Email: **darshanvp2610@gmail.com**  
   
 ---
