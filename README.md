@@ -26,28 +26,28 @@
 
 ## 🧑‍💻 About Me
 
-```java
-public class Darshan {
+<table>
+<tr>
+<td width="50%">
 
-    String name        = "Darshan Pakhale";
-    String location    = "Pune, Maharashtra, India";
-    String education   = "PG-DAC @ C-DAC ACTS, Pune (Feb 2026)";
-    String degree      = "B.E. Electronics & Telecommunication (CGPA: 8.42)";
-    String[] roles     = {"Software Developer", "Backend Engineer", "Full-Stack Dev"};
+**👤 Darshan Pakhale**
+📍 Pune, Maharashtra, India
+🎓 PG-DAC @ C-DAC ACTS (Feb 2026)
+🎓 B.E. E&TC · CGPA 8.42
+💼 Open to Software Engineer roles
 
-    String[] currentlyDoing = {
-        "Building SportZone — microservices-based sports booking platform",
-        "Deepening expertise in Spring Boot, System Design & DSA",
-        "Solving LeetCode problems daily"
-    };
+</td>
+<td width="50%">
 
-    String[] lookingFor = {
-        "Entry-level Software Engineer roles",
-        "Open-source collaboration opportunities"
-    };
+🔭 Building **SportZone** — microservices booking platform
+🌱 Learning Spring Boot, System Design & DSA
+🧩 Solving LeetCode daily (78 solved)
+🤝 Open to open-source collaboration
+⚡ Debugging = Chess — strategic & patient!
 
-    String funFact = "I treat debugging like chess — strategic, patient, always one move ahead!";
-}
+</td>
+</tr>
+</table>
 ```
 
 ---
