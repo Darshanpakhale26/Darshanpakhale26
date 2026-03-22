@@ -116,55 +116,6 @@ public class Darshan {
 
 </div>
 
-### ⚙️ Snake Setup Instructions
-
-**1. Create your profile repo** (name = your GitHub username: `Darshanpakhale26`)
-
-**2. Create `.github/workflows/snake.yml`:**
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push output to branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**3.** Go to `Settings → Actions → General → Workflow permissions` → select **Read and write permissions** → Save
-
-**4.** Go to `Actions` tab → `Generate Snake Animation` → `Run workflow`
-
-**5.** Snake SVGs appear in your `output` branch after ~1 minute. Auto-updates every 12 hours!
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -173,28 +124,6 @@ jobs:
 [![Crop Recommendation](https://github-readme-stats.vercel.app/api/pin/?username=Darshanpakhale26&repo=Crop-Recommendation-System&theme=github_dark&hide_border=true)](https://github.com/Darshanpakhale26/Crop-Recommendation-System)
 
 </div>
-
-### 🏟️ SportZone — Sports Venue Booking Platform
-> **Stack:** Java · Spring Boot · Microservices · REST API · API Gateway · React.js · MySQL
-
-- ✅ Real-time slot booking with conflict-free concurrent access (optimistic locking)
-- ✅ Microservices architecture — User, Venue, Booking, Payment, Notification services
-- ✅ API Gateway with JWT authentication and rate limiting
-- ✅ Responsive React.js frontend with Tailwind CSS
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Darshanpakhale26/SportZone)
-
-### 🌾 Crop Recommendation System — Smart Agriculture
-> **Stack:** Python · Django · Machine Learning · scikit-learn · MySQL · HTML · CSS
-
-- ✅ Random Forest classifier with ~98.7% accuracy across 22 crop classes
-- ✅ Analyzes soil (N, P, K, pH), temperature, humidity, and rainfall
-- ✅ Full-stack Django web app with user authentication and prediction history
-- ✅ Supports smart farming and sustainable agriculture decisions
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Darshanpakhale26/Crop-Recommendation-System)
-
----
 
 ## 🏆 Certifications & Achievements
 
